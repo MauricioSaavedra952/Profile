@@ -6,7 +6,7 @@ University.
 </p>
 <h2>Table of Contents</h2>
 <ol>
-<li><a href="#bookmark=id.n9k6lxa69die">Education</a>
+<li>[Education](#education)
 <li><a href="#bookmark=id.cigza3ec0gi7">Interests</a>
 <li><a href="#bookmark=id.q7x13wmjg00x">Experience</a>
 <li><a href="#bookmark=id.38miewiimuuv">Projects and Activities</a>
@@ -16,7 +16,7 @@ University.
 </li>
 </ol>
 <h2>Education</h2>
-<h2><strong>Carnegie Mellon University </strong>— Mechanical Engineering</h2>
+<h3><strong>Carnegie Mellon University </strong>— Mechanical Engineering</h3>
 <ul>
 <li>Bachelor’s 2020-2024 with Robotics Minor  GPA: 3.45 / 4.0
 <li>Master’s 2024-2025 starting in August 2024
